@@ -2,5 +2,18 @@
 
 # Screen Shots
 
-<img src="images/concert_this.png" heighy = "100">
-<img src="do_what-it_says.png">
+do what it says
+
+<img src="images/Do_what_it_says.png">
+
+concert this
+
+<img src="images/concert-this.png">
+
+Movie This
+
+<img src="images/movie-this.png">
+
+spotify this song
+
+<img src="images/spotify-this.png">
