@@ -1,6 +1,6 @@
-var env = require ('./.env');
+var env = require ('dotenv');
 
-console.log('this is loaded');
+console.log('keys is loaded');
 
 exports.spotify = {
   id: process.env.SPOTIFY_ID,
